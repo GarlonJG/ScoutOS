@@ -1,0 +1,14 @@
+FROM mistral:latest
+
+# Optimize for speed on older hardware
+PARAMETER num_thread 2
+PARAMETER num_ctx 1024
+PARAMETER num_predict 256
+PARAMETER temperature 0.7
+PARAMETER top_k 20
+PARAMETER top_p 0.8
+PARAMETER repeat_penalty 1.05
+PARAMETER low_vram true
+PARAMETER num_batch 1
+
+LICENSE """MIT"""

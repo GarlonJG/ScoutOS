@@ -1,0 +1,24 @@
+# Stable versions for Intel Mac compatibility
+# Core dependencies
+streamlit==1.28.0
+python-dotenv==1.0.0
+pydantic==2.5.0
+requests==2.31.0
+PyYAML==6.0.1
+
+# AI/ML packages - stable versions for Intel Mac
+torch==2.0.1
+sentence-transformers==2.2.2
+numpy==1.24.3
+scikit-learn==1.3.0
+
+# LlamaIndex - stable version
+llama-index==0.9.0
+llama-index-core==0.9.0
+llama-index-embeddings-huggingface==0.1.4
+
+# Vector search
+faiss-cpu==1.7.4
+
+# Text processing
+nltk==3.8.1

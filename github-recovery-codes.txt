@@ -1,0 +1,19 @@
+This document contains instructions for recovering access to your GitHub account. 
+Each line contains a recovery code. Keep these codes in a safe place.
+
+d667c-db76c
+18a9d-5bad7
+43089-5d3fb
+9bed0-10226
+1dd87-50eb3
+95ff8-ce3d4
+a8ac6-9272b
+9663b-1d1d1
+13dc9-66447
+43e19-57d7d
+d5625-8502c
+06c82-39c29
+cc5fc-7e404
+ce372-e606e
+cc8e3-9667d
+6d799-e7915
