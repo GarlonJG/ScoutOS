@@ -1,11 +1,9 @@
-I hope you're doing well! I recently applied for the Software Development Engineer in Test position on 5/31. I wanted to follow up on the status of that application and share how genuinely excited I am about the opportunity to contribute to IOHK’s mission to contribute to the decentralizing identity and finance on a global level.
-I bring over a decade of experience in software development, test automation, and CI/CD infrastructure—with a particular focus on building reliable, developer-friendly systems. I’ve worked across the stack using tools like React, JavaScript, Ruby on Rails, Playwright, Cypress, GitHub Actions, Docker, and more. As noted in my cover letter, I’m currently developing ScoutOS, a personal AI assistant project, which has deepened my hands-on experience with AI/ML concepts and modern dev tooling.
-Beyond technical skills, I’m a fast learner and strong decipherer—whether diving into unfamiliar codebases or tracking down elusive bugs. I have a natural “big-picture” mindset, a deep passion for automation, and I’m entirely self-taught, which reflects my constant drive to grow and evolve.
-What you'll get with me is someone who:
-	•	Thinks in systems, not silos – I naturally look for ways to improve pipelines, developer experience, and product quality holistically
-	•	Thrives in collaborative environments – I enjoy partnering closely with product, QA, and platform teams
-	•	Delivers thoughtful, clean solutions – I aim to balance speed, scale, and stability
-While I initially applied that role, I also want to express interest in the following positions, where I believe I could bring immediate value:
-	•	Senior Software Development Engineer in Test (SDET) - Midnight
-	•	Front End Developer - WebGL
-Thanks again for your time and consideration—I’d love the opportunity to connect and explore how I could support Vanta’s engineering efforts.
+I've been exploring the world of decentralized identity and finance for some time now, and I'm excited about the potential for blockchain technology to empower individuals and communities. The concept of decentralized, community-driven networks resonates deeply with me, as I believe that the future of the web should be built on openness, transparency, and collaboration.
+
+In my current role at a fintech startup, I've been working on building a robust and scalable architecture for our web application. I've gained experience with modern web development frameworks and tools, including React, Node.js, and GraphQL. I've also been involved in the development of a number of internal tools and libraries, including a GraphQL API client and a React component library.
+
+As I look to the future, I'm excited about the potential for decentralized networks to empower individuals and communities. I believe that blockchain technology has the potential to revolutionize the way we think about identity, finance, and governance. I'm eager to contribute my skills and experience to a company that shares my vision for a more decentralized and democratic web.
+
+In addition to my technical skills, I bring a strong passion for collaboration and community-building. I've been involved in a number of open-source projects and have experience working with distributed teams. I'm excited about the opportunity to join a team that values collaboration and community, and to contribute to the development of a more decentralized web.
+
+I'm confident that my skills and experience make me a strong fit for this role. I'm excited about the opportunity to join a company that is pushing the boundaries of what is possible with blockchain technology. I'm looking forward to the opportunity to contribute my skills and experience to the development of a more decentralized web.

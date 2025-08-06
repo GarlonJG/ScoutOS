@@ -20,6 +20,10 @@ wheels/
 .installed.cfg
 *.egg
 
+# Chat Memory
+chat_memory.json
+semantic_ids.json
+
 # Virtual Environment
 venv/
 env/
